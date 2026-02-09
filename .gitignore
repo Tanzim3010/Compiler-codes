@@ -1,3 +1,4 @@
 # Ignore all directories named 'output' and their contents
 output/
 **/output/
+**.exe
